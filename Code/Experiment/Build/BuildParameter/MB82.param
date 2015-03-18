@@ -1,0 +1,9 @@
+<parameters>
+        <memory>1G</memory>
+        <index>/Users/Aayush/Desktop/School/Fall-2014/849/TermProject/Index/MB82</index>
+        <corpus>
+                <path>/Users/Aayush/Desktop/School/Fall-2014/849/TermProject/Microblog_data_v_1/MB82.trec</path>
+                <class>trectext</class>
+                <stemmer>Porter</stemmer>
+        </corpus>
+</parameters>

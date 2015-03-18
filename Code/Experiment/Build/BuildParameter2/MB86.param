@@ -1,0 +1,8 @@
+<parameters>
+        <memory>1G</memory>
+        <index>/Users/Aayush/Desktop/School/Fall-2014/849/TermProject/Index_Plain/MB86</index>
+        <corpus>
+                <path>/Users/Aayush/Desktop/School/Fall-2014/849/TermProject/Microblog_data_v_1/MB86.trec</path>
+                <class>trectext</class>
+        </corpus>
+</parameters>
